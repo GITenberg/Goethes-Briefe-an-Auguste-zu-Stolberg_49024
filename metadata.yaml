@@ -1,10 +1,14 @@
 _repo: Goethes-Briefe-an-Auguste-zu-Stolberg_49024
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hecker, Max
       gutenberg_agent_id: '45098'
       url: http://www.gutenberg.org/2009/agents/45098
+covers:
+- cover_type: archival
+  image_path: 49024-h/images/cover.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49024#Goethes-Briefe-an-Auguste-zu-Stolberg
 gutenberg_issued: '2015-05-23'
 gutenberg_type: Text
 identifiers:
